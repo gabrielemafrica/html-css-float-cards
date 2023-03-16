@@ -26,6 +26,7 @@ h1{
 h3, h4{
     color: white;
 }
+
 h5{
     color: rgb(77, 188, 224);
     line-height: 150%;
@@ -39,10 +40,13 @@ h5{
 }
 
 /* header */
+
 header{
     margin-bottom: 40px;
 }
+
 /* blocco principale */
+
 section{
     margin-bottom: 40px;
 }
@@ -71,11 +75,10 @@ section{
 .card > :first-child{
     float: left;
     width: 30%;
-    margin-right:15px ;
 }
 
 .card > :last-child{
     float: left;
     width: calc(70%-10px);
-    margin-top: 7px;
+    margin: 7px 15px;
 }
