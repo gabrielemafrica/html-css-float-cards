@@ -79,6 +79,6 @@ section{
 
 .card > :last-child{
     float: left;
-    width: calc(70%-10px);
+    width: calc(70%-30px);
     margin: 7px 15px;
 }
