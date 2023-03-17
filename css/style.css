@@ -83,4 +83,5 @@ section{
     float: left;
     width: calc(70% - 30px);
     margin: 10px 15px;
+    overflow: auto;
 }
