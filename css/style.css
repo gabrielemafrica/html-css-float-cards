@@ -25,11 +25,12 @@ h1{
 
 h3, h4{
     color: white;
+    line-height: 160%;
 }
 
 h5{
     color: rgb(77, 188, 224);
-    line-height: 150%;
+    line-height: 160%;
 }
 
 .clearfix::after{
@@ -80,5 +81,5 @@ section{
 .card > :last-child{
     float: left;
     width: calc(70% - 30px);
-    margin: 15px 15px;
+    margin: 10px 15px;
 }
